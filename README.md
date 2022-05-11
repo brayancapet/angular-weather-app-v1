@@ -4,4 +4,4 @@
 
 ### https://rapidapi.com/community/api/open-weather-map/
 
-> This project was generated made with angular 13.
+> This project was made with angular 13.
